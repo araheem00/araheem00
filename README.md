@@ -1,1 +1,1 @@
-<h3 align="center">Another frontend web developer, learning new skills.</h3>
+<h3 align="center">Another frontend web developer</h3>
